@@ -12,7 +12,7 @@ body {
     width: 80%;
     margin: 100px auto 50px;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
     grid-gap: 30px;
 }
 
@@ -32,7 +32,7 @@ body {
 h1 {
     text-decoration: underline;
     margin: 100px;
-    font-size: 80px;
+    font-size: 40px;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
